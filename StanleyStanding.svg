@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg3626"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="BuddyStanding.svg">
+  <defs
+     id="defs3628">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective3634" />
+    <inkscape:perspective
+       id="perspective3644"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.58"
+     inkscape:cx="375"
+     inkscape:cy="517.1696"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1440"
+     inkscape:window-height="848"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3631">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:nodetypes="cccccccccccccccccccccccccccc"
+       id="path3590"
+       d="m 201.60346,970.80723 176.22609,1.3513 33.65826,-206.13444 16.35225,-75.87935 20.30256,80.20493 37.47645,162.20732 -47.03602,18.39577 0.5476,23.6352 161.79679,-2.13314 -17.18652,-202.76848 -10.66274,-218.3318 -17.73016,-181.57931 115.28737,-75.52298 94.89712,-186.55342 -96.07242,-28.291477 -61.38701,99.548197 -68.31183,29.047 -237.92008,-5.95706 -64.45318,-33.1426 -38.03874,-102.911188 -113.521459,48.416758 68.188829,151.29677 112.3747,91.24657 -12.20984,211.28858 4.31923,190.41887 3.9016,169.51402 -57.93751,13.77617 -2.86134,28.85779 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.56995701999999990px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       transform="matrix(1.8930323,0.31338947,-0.45669302,2.7586589,3.9866117,-103.16427)"
+       d="m 271.95122,59.679256 a 40.853657,40.243904 0 1 1 -81.70731,0 40.853657,40.243904 0 1 1 81.70731,0 z"
+       sodipodi:ry="40.243904"
+       sodipodi:rx="40.853657"
+       sodipodi:cy="59.679256"
+       sodipodi:cx="231.09756"
+       id="path3592"
+       style="fill:#000000;fill-opacity:1"
+       sodipodi:type="arc" />
+  </g>
+</svg>
